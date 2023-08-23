@@ -16,7 +16,10 @@ In this exercise, we will focus on the usage of the basic control flow operation
 
 ### 
 
-### :heavy_plus_sign: Task 1 - basic math operations
+# Your task is to write a program which asks the user three times for a number. If number is even print ‘Even number’, else print ‘Odd number’.
+# >Hint: you can use `for` or `while` loop to perform the same operation more than once!
+
+# >Hint: you can use `for` or `while` loop to perform the same operation more than once!
 
 Your task is to write a program which asks the user three times for a number. If number is even print ‘Even number’, else print ‘Odd number’.
 
